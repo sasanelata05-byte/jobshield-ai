@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JobShield AI — Career Safety Lab
 
 A responsive job-scam screening website built with HTML, CSS, vanilla JavaScript, Node.js and Express. It reviews job text, recruiter messages, employer/role details, salary claims and a supplied URL for common warning patterns, then explains each matched signal and suggests next steps.
@@ -85,3 +86,7 @@ Replace `YOUR-USERNAME` with your GitHub username. Never commit `.env`, tokens, 
 2. Add tests and a model-card page explaining limitations.
 3. Add verified employer lookups only through legitimate public sources/APIs; do not scrape sites or claim verification without evidence.
 4. Add database-backed history only with clear consent and a privacy policy.
+=======
+# jobshield-ai
+AI-powered job scam detection and career safety platform
+>>>>>>> be8f35119bc8366da1b89338485cb5239b4930d8
